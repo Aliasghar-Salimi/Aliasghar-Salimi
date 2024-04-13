@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm aliasghar salimi</h1>
 <h3 align="center">an Iranian computer science student and aspiring programmer. I've built projects using Django and I'm well-versed in Git, Python, Django, and MySQL and so on. I'm passionate about expanding my knowledge and growing as a developer!
 </h3>
-![plot](C:\Users\AIO-USR\Desktop\banner2.png)
+![plot](.\C:\Users\AIO-USR\Desktop\banner2.png)
 
 <img src="https://www.canva.com/design/DAGCU_YVh_g/JVodTIn1Mr2mEGhvVnE2hQ/editutm_content=DAGCU_YVh_g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="cplusplus" width="40" height="40"/>
 
