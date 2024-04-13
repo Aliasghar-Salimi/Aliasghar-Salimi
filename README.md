@@ -3,7 +3,7 @@
 <h3 align="center">an Iranian computer science student and aspiring programmer. I've built projects using Django and I'm well-versed in Git, Python, Django, and MySQL and so on. I'm passionate about expanding my knowledge and growing as a developer!
 </h3>
 ![plot](.\C:\Users\AIO-USR\Desktop\banner2.png)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliasghar-Salimi)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://www.canva.com/design/DAGCU_YVh_g/JVodTIn1Mr2mEGhvVnE2hQ/editutm_content=DAGCU_YVh_g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="cplusplus" width="40" height="40"/>
 
