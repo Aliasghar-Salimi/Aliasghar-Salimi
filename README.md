@@ -1,4 +1,4 @@
-
+![Design and Development](https://github.com/Aliasghar-Salimi/Aliasghar-Salimi/blob/main/banner4.jpg)
 <h1 align="center">Hi 👋, I'm aliasghar salimi</h1>
 <h3 align="center">an Iranian computer science student and aspiring programmer. I've built projects using Django and I'm well-versed in Git, Python, Django, and MySQL and so on. I'm passionate about expanding my knowledge and growing as a developer!
 </h3>
