@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliasghar-Salimi)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliasghar-Salimi)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliasghar-Salimi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ![Design and Development](https://github.com/Aliasghar-Salimi/Aliasghar-Salimi/blob/main/banner4.jpg)
 <h1 align="center">Hi 👋, I'm aliasghar salimi</h1>
